@@ -8,6 +8,6 @@ Los monumentos de arquitectura que hoy se consideran como visigodos en nuestra p
 2.	*La iglesia de San Juan*, en Baños de Cerrato **(Palencia)** de tipo basilical latino.
 3.	*Las iglesias de San Martín y de Santa Comba de Bande*, ambas de **Orense** y de tipo más o menos bizantino en forma de cruz griega.
 4.	*La iglesia de San Pedro de la Nave* **(Zamora)**.
-5.	*La capilla de San Fructuoso de Montelius en Braga*, (Portugal).
-6.	*La iglesia de Santa Lucía del Trampal en Alcuéscar*, (Cáceres).
-7.	*La Iglesia de Santa María de Melque de San Martín de Montalbán* (Toledo).
+5.	*La capilla de San Fructuoso de Montelius en Braga*, **(Portugal)**.
+6.	*La iglesia de Santa Lucía del Trampal en Alcuéscar*, **(Cáceres)**.
+7.	*La Iglesia de Santa María de Melque de San Martín de Montalbán* **(Toledo)**.

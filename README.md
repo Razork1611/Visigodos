@@ -5,8 +5,8 @@ Los visigodos fueron diversos pueblos bárbaros que, aprovechando la falta de op
 ## Índice
 
 1. [ÉPOCA](ÉPOCA.md)
-2. [Arquitectura](OBRAS.md)
-3. Obras más significativas
+2. [Arquitectura]
+3. [Obras más significativas](OBRAS.md)
 
 ## Referencia
 [National Geographic](https://www.nationalgeographic.com.es/)
